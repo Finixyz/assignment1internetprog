@@ -1,0 +1,36 @@
+body {
+    font-family: fantasy;
+    background-color: #f4f4f4;
+    margin: 20px;
+    padding: 0;
+    background-image: url(juice-wrld1.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p {
+    color: rgb(33, 107, 255);
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: cornflowerblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    color: rgb(0, 81, 232);
+    text-align: center;
+    padding: 1em 0;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+p {
+    line-height: 1.6;
+}
